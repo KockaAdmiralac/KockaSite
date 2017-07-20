@@ -1,0 +1,189 @@
+<vocab>
+  <index>
+    <header>Dobrodošli na Kocka-Systems sajt! </header>
+    <desc>
+      Ovo je sajt posvećen kompaniji Kocka-Systems, firmi za pravljenje i prodaju igrica.&lt;br&gt;
+      Kocka-Systems server je poklon od &lt;a href="http://dilfa.no"&gt;dilFa Communicatons AS&lt;/a&gt;, jedne male,
+			 ali veoma uspešne kompanije u Norveškoj. &lt;br /&gt;
+		 </desc>
+		 <desc2>
+      &lt;br /&gt;
+			 Njegovi administratori su svi veoma mladi ljudi, željni znanja i upoznavanja
+			 novih stvari u svetu tehnologije i nauke današnjice. &lt;br /&gt;
+		 </desc2>
+		 <news_title>Vesti</news_title>
+  </index>
+  <globalVocab>
+    <title>Kocka-Systems</title>
+    <home>Početna</home>
+    <about>O nama</about>
+    <contact>Kontakt</contact>
+    <forum>Forum</forum>
+    <profile>Profil</profile>
+    <copyright>Sva prava zadržana.</copyright>
+    <fillInAllFields>Popunite sva potrebna polja!</fillInAllFields>
+    <name>Ime : </name>
+    <surname>Prezime : </surname>
+    <email>Adresa e-pošte : </email>
+    <message>Poruka : </message>
+    <send>Pošalji!</send>
+    <wrongUserNameOrPassword>Pogrešna lozinka!</wrongUserNameOrPassword>
+    <login>Prijavite se</login>
+    <password>Lozinka : </password>
+    <phone>Telefon : </phone>
+    <description>Opis : </description>
+    <not-required> (nije obavezno) </not-required>
+    <upload>Upload</upload>
+  </globalVocab>
+  <forum>
+    <header1>Kocka-Systems forumi</header1>
+    <desc>Dobrodošli na Kocka-Systems forume!</desc>
+    <forum1>Proizvodi</forum1>
+    <forum2>Usluga</forum2>
+    <forum3>Generalno</forum3>
+    <forum4>Problemi</forum4>
+    <desc1>Ovde diskutujte o Kocka-Systems proizvodima.</desc1>
+    <desc2>Ovde diskutujte o usluzi Kocka-Systems.</desc2>
+    <desc3>Ovde diskutujte o bilo čemu.</desc3>
+    <desc4>Ako imate problema, prijavite ih ovde!</desc4>
+    <newPostHeader>Započnite novu temu</newPostHeader>
+    <newPostName>Ime teme : </newPostName>
+    <newPostSubmit>Započni!</newPostSubmit>
+    <answerHeader>Odgovorite na temu : </answerHeader>
+    <answerSubmit>Odgovori!</answerSubmit>
+  </forum>
+  <kontakt>
+    <header>Kontakt zaposlenih</header>
+    <contactHeader>Naše zaposlene možete kontaktirati na : </contactHeader>
+    <formHeader>Kontakt forma</formHeader>
+    <formDesc>
+      Ako Vam se nešto kod Kocka-Systems sviđa (ili, pak, ne sviđa), ne ustručavajte se da nam to kažete putem ove kontakt forme!
+      Samo upišite Vaše ime, prezime i adresu e-pošte, i očekujte brz odgovor!&lt;br /&gt;
+    </formDesc>
+  </kontakt>
+  <advertising-index>
+    <header>Sponzori projekta Kocka-Systems</header>
+  </advertising-index>
+  <beta-index>
+    <header>Beta testing grupa</header>
+    <p>
+      Beta testing grupa je grupa ljudi koja testira proizvode, i onda podnosi izveštaje o ponašanju i bagove.&lt;br&gt;
+      Kocka-Systems je rešio da pruži korisnicima priliku da beta-testiraju trenutne verzije igrice, i da im zauzvrat da &lt;br&gt;
+      određene popuste na njihove igrice. &lt;br&gt;
+      Ukoliko želite da se pridružite, kontaktirajte nas preko &lt;a href="/kontakt.php"&gt;kontakt forme&lt;/a&gt; &lt;br&gt;
+    </p>
+  </beta-index>
+  <errors-404>
+    <header>STRANICA NIJE PRONAĐENA!</header>
+    <p>Vraćanje na početnu stranicu...</p>
+  </errors-404>
+  <profile-login>
+    <desc>
+      Ovo je mesto gde se možete prijaviti na naš sajt da biste dobili pristup dodatnim mogućnostima sajta.&lt;br&gt;
+      Ako niste registrovani, registrujte se &lt;a href="register.php"&gt;ovde&lt;/a&gt;.&lt;br&gt;
+    </desc>
+  </profile-login>
+  <profile-register>
+    <header>Registracija korisnika</header>
+    <p>
+      Ovde se možete registrovati na naš sajt! Kada se registrujete, dobijate pristup Kocka-Systems prodavnici,
+      Forumu i mnogim drugim stvarima na sajtu!&lt;br&gt;
+    </p>
+    <numberpic>Ukucajte broj sa slike : </numberpic>
+    <wrongCode>Pogrešan kôd!</wrongCode>
+  </profile-register>
+  <profile-index>
+    <header>Vaš profil</header>
+    <p>
+      Ovo je Vaš profil na našem sajtu. 
+      Sa njim ćete moći da kupujete Kocka-Systems proizvode.
+    </p>
+    <changedesc>Promenite deskripciju</changedesc>
+    <changepass1> Ako želite da promenite lozinku : </changepass1>
+    <changepass2> 1. Ukucajte Vašu staru lozinku : </changepass2>
+    <changepass3> 2. Ukucajte Vašu novu lozinku  : </changepass3>
+    <changepass4>Promenite lozinku</changepass4>
+    <welcome> Dobar dan, korisniče </welcome>
+    <logout>Odjavite se</logout>
+    <changeimg>Promenite sliku</changeimg>
+    <imageSuccess>Slika poslata!</imageSuccess>
+    <imageTooLarge>Prevelika slika!</imageTooLarge>
+    <imageFail>Greška u slanju!</imageFail>
+    <usersList>Lista korisnika</usersList>
+    <usersListDesc>Ovo je lista svih korisnika registrovanih na sajt.&lt;br&gt;</usersListDesc>
+  </profile-index>
+  <store-index>
+    <header>Prodavnica</header>
+    <desc>
+      Ovde možete naručivati Goldenson proizvode.
+      Na raspolaganju su sledeći proizvodi :
+    </desc>
+    <price>Cena</price>
+    <comments>Komentari</comments>
+    <yourComment>Vaš komentar : </yourComment>
+    <images>Slike</images>
+  </store-index>
+  <games-index>
+    <header>Igrica</header>
+    <desc>
+      Ovde možete igrati Goldensonove on-line igrice, ukoliko imate Adobe Flash Player 10 i
+      web browser koji nije Internet Explorer.&lt;br&gt;
+      UPOZORENJE: Igrica će ubuduće možda sadržati bliceve koji mogu biti veoma opasni&lt;br&gt;
+      ukoliko ste skloni epileptičnim napadima. Takodje, možda ubacimo i audio, &lt;br&gt;
+      pa molimo noćne ptice da isključe zvuk da ne smetaju komšijama dok spavaju.
+    </desc>
+  </games-index>
+  <minecraft-index>
+    <header>Kocka-Systems Minecraft server</header>
+    <info>
+      IP: &lt;strong&gt;kocka.dilfa.com (80.232.19.126)&lt;/strong&gt;&lt;br&gt;
+      Port: &lt;strong&gt;25555&lt;/strong&gt;&lt;br&gt;
+      Verzija: &lt;strong&gt;1.8+&lt;/strong&gt;&lt;br&gt;
+      Status: &lt;strong&gt;Online&lt;/strong&gt;&lt;br&gt;&lt;br&gt;
+    </info>
+    <desc>
+      Kocka-Systems Minecraft server je pokrenut kao&lt;br&gt;
+      serverov sistem razonode, i ima white-list&lt;br&gt;
+      na sve poznanike administratora servera.
+    </desc>
+    <alreadyWhitelisted>Već whitelist-ovani korisnici : </alreadyWhitelisted>
+  </minecraft-index>
+  <video-index>
+    <header>Video Player</header>
+  </video-index>
+  <worker-index>
+    <header1>O Kocka-Systems</header1>
+    <header2>Istorijat</header2>
+    <header3>Zaposleni</header3>
+    <desc1>
+      Kocka-Systems, projekat pokrenut od strane mladih iz {location stripped from repository}
+      bavi se proizvodnjom i prodajom igrica.	Napravljen je da bim mladi ljudi zaradili dodatni novac,
+      ali i da bi deo tog novca davali u dobrotvorne svrhe.
+    </desc1>
+    <desc2>
+      Kocka-Systems projekat započeo je {name stripped} novembra 2013. pod nazivom Goldenson.
+    </desc2>
+    <desc3>
+      Ovde možete naći privatne stranice zaposlenih u okviru Kocka-Systems.
+    </desc3>
+  </worker-index>
+  <rpg-scripts-index>
+    <header>KOCKA-Scripts</header>
+	<intro-text>
+	  Hello! Welcome to the KOCKA-Script index! Here, you can find all of the KOCKA scripts, read the terms, and give some feedback!
+	  KOCKA-Scripts are made by KockaAdmiralac
+	</intro-text>
+	<intro>Intro</intro>
+	<scripts>Scripts</scripts>
+	<terms>Terms</terms>
+	<feedback>Feedback</feedback>
+	<screenshot>Screenshot</screenshot>
+	<link>Link</link>
+	<about-text>
+	  
+	</about-text>
+	<scripts-text>
+	  
+	</scripts-text>
+  </rpg-scripts-index>
+</vocab>

@@ -1,0 +1,94 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body { display: none; }
+
+.page-content {
+    box-shadow: 5px 5px 5px #000000;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    width: 80%;
+    background-color: white;
+    padding: 40px;
+    padding-top: 20px;
+    text-align: left;
+    border-radius: 15px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-left: 50px !important;
+}
+
+.site-container {
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+.dropdown.menu a {
+    color: orange;
+}
+
+.dropdown.menu a:hover {
+    background-image: url('/primena/img/arrow.png');
+    background-position: center top;
+    background-repeat: no-repeat;
+}
+
+#back-top {
+    position: fixed;
+    bottom: 4px;
+    right: 4px;
+    z-index: 100;
+}
+
+.top-bar {
+    background: none repeat scroll 0 0 #999999;
+}
+
+.slide {
+    background-size: 100% 100%;
+    display: inline-block;
+    width: 32%;
+    height: 100%;
+    text-align: center;
+    border-radius: 15px;
+}
+
+.caption {
+    position: relative;
+    top: 50%;
+    opacity: 0;
+    color: black;
+    font-weight: bold;
+    font-size: 32px;
+    font-family: Courier New;
+}
+
+.inline {
+    margin-top: 10%;
+    width: 100%;
+    height: 45%;
+    display: inline-block;
+}
+
+.center {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+}
+
+.footer {
+    margin-bottom: 0;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    height: 60px;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}

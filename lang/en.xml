@@ -1,0 +1,187 @@
+<vocab>
+  <index>
+    <header>Welcome to the Kocka-Systems website! </header>
+    <desc>
+      This is the website dedicated to a company named Kocka-Systems.&lt;br&gt;
+      Kocka-Systems server is a gift from &lt;a href="http://dilfa.no"&gt;dilFa Communicatons AS&lt;/a&gt;, one small,
+			 but very successful company from Norway. &lt;br /&gt;
+		 </desc>
+		 <desc2>
+      &lt;br /&gt;
+			 His administrators are very young people, that want to enter the world of
+			 new things of informatics and technology.&lt;br /&gt;
+		 </desc2>
+		 <news_title>News</news_title>
+  </index>
+  <globalVocab>
+    <title>Kocka-Systems</title>
+    <home>Home</home>
+    <about>About us</about>
+    <contact>Contact</contact>
+    <forum>Forum</forum>
+    <copyright>All rights reserved.</copyright>
+    <profile>Profile</profile>
+    <fillInAllFields>Fill in all required fields!</fillInAllFields>
+    <name>Name : </name>
+    <surname>Surname : </surname>
+    <email>E-mail : </email>
+    <message>Message : </message>
+    <send>Send</send>
+    <wrongUserNameOrPassword>Wrong password!</wrongUserNameOrPassword>
+    <login>Log in</login>
+    <password>Password : </password>
+    <phone>Phone : </phone>
+    <description>Description : </description>
+    <not-required> (not required) </not-required>
+    <upload>Upload</upload>
+    <author>KockaAdmiralac&lt;1405223@gmail.com&gt;</author>
+  </globalVocab>
+  <forum>
+    <header1>Kocka-Systems forums</header1>
+    <desc>Welcome to Kocka-Systems forums!</desc>
+    <forum1>Products</forum1>
+    <forum2>Service</forum2>
+    <forum3>General</forum3>
+    <forum4>Problems</forum4>
+    <desc1>Here you discuss about Kocka-Systems products.</desc1>
+    <desc2>Here you discuss about Kocka-Systems service.</desc2>
+    <desc3>Here you discuss about anything.</desc3>
+    <desc4>If you have some problems, report them here!</desc4>
+    <newPostHeader>Start new post</newPostHeader>
+    <newPostName>Post name : </newPostName>
+    <newPostSubmit>Start post!</newPostSubmit>
+    <answerHeader>Answer on the post : </answerHeader>
+    <answerSubmit>Answer!</answerSubmit>
+  </forum>
+  <kontakt>
+    <header>Contact the employees</header>
+    <contactHeader>Our emloyees you can contact on : </contactHeader>
+    <formHeader>Contact form</formHeader>
+    <formDesc>
+      If you like something in Kocka-Systems (or you don't like something), don't hesitate to say that to us through this contact form!
+      Just enter your name, surname and e-mail, and expect a fast answer!&lt;br /&gt;
+    </formDesc>
+  </kontakt>
+  <advertising-index>
+    <header>Sponsors of the project Kocka-Systems</header>
+  </advertising-index>
+  <beta-index>
+    <header>Beta testing group</header>
+    <p>
+      Beta testing group is a group of people that is testing, and then submits usage reports.&lt;br&gt;
+      Kocka-Systems decided to give users a chance to beta-test current versions of their games, and in return give them a discount on the games. &lt;br&gt;
+      If you want to join, contact us through the &lt;a href="/kontakt.php"&gt;contact form&lt;/a&gt; &lt;br&gt;
+    </p>
+  </beta-index>
+  <errors-404>
+    <header>PAGE NOT FOUND!</header>
+    <p>Back to the homepage...</p>
+  </errors-404>
+  <profile-login>
+    <desc>
+      This is a place where you can login to the site to get access to the forum, store....&lt;br&gt;
+      If you are not registered, register &lt;a href="register.php"&gt;here&lt;/a&gt;.&lt;br&gt;
+    </desc>
+  </profile-login>
+  <profile-register>
+    <header>User registration</header>
+    <p>
+      Here, you can register to the site.&lt;br&gt;
+	  When you register, you get access to the Kocka-Systems store, forum and many more things!&lt;br&gt;
+    </p>
+    <numberpic>Enter the code from the image : </numberpic>
+    <wrongCode>Wrong code!</wrongCode>
+  </profile-register>
+  <profile-index>
+    <header>Your profile</header>
+    <p>
+      This is your profile.&lt;br&gt;
+      With it you can buy our products.&lt;br&gt;
+    </p>
+    <changedesc>Change description</changedesc>
+    <changepass1> If you want to change the password : </changepass1>
+    <changepass2> 1. Enter your old password : </changepass2>
+    <changepass3> 2. Enter your new password  : </changepass3>
+    <changepass4>Change password</changepass4>
+    <welcome> Welcome, user </welcome>
+    <logout>Logout</logout>
+    <changeimg>Change profile image</changeimg>
+    <imageSuccess>Image sent!</imageSuccess>
+    <imageTooLarge>Image too large!</imageTooLarge>
+    <imageFail>Sending error!</imageFail>
+    <usersList>Users list</usersList>
+    <usersListDesc>This is the list of registered users.&lt;br&gt;</usersListDesc>
+  </profile-index>
+  <store-index>
+    <header>Store</header>
+    <desc>
+      Here you can order Kocka-Systems products.&lt;br&gt;
+      There are these products :
+    </desc>
+    <price>Price</price>
+    <comments>Comments</comments>
+    <yourComment>Your comment : </yourComment>
+    <images>Images</images>
+  </store-index>
+  <games-index>
+    <header>Game</header>
+    <desc>
+      Here you can play Kocka-Systems online games.&lt;br&gt;
+	  Requirements : Adobe Flash Player 10 and web-browser that is not Internet Explorer.&lt;br&gt;
+      WARNING: Game may in future have flashes which are very dangerous if you periodically have&lt;br&gt;
+      epileptic attacks. Also, we may add audio, so we suggest night people to mute speakers or use headphones.&lt;br&gt;
+    </desc>
+  </games-index>
+  <minecraft-index>
+    <header>Kocka-Systems Minecraft server</header>
+    <info>
+      IP: &lt;strong&gt;kocka.dilfa.com (80.232.19.126)&lt;/strong&gt;&lt;br&gt;
+      Port: &lt;strong&gt;25555&lt;/strong&gt;&lt;br&gt;
+      Version: &lt;strong&gt;1.8+&lt;/strong&gt;&lt;br&gt;
+      Status: &lt;strong&gt;Online&lt;/strong&gt;&lt;br&gt;&lt;br&gt;
+    </info>
+    <desc>
+      Kocka-Systems Minecraft server has started as organizations entertainment system,&lt;br&gt;
+      and has a white-list to friends of server administrators.&lt;br&gt;
+    </desc>
+    <alreadyWhitelisted>Already white-listed users : </alreadyWhitelisted>
+  </minecraft-index>
+  <video-index>
+    <header>Video Player</header>
+  </video-index>
+  <worker-index>
+    <header1>About Kocka-Systems</header1>
+    <header2>History</header2>
+    <header3>Employees</header3>
+    <desc1>
+      Kocka-Systems, project started by young people from {location stripped} is making and selling games.&lt;br&gt;
+	  It's made for young people to earn some money, but also some of that money goes to charity.
+    </desc1>
+    <desc2>
+      Kocka-Systems project was started by {name stripped} in november 2013. with name Goldenson.
+    </desc2>
+    <desc3>
+      Here you can find Kocka-Systems employees' private pages.
+    </desc3>
+  </worker-index>
+  <rpg-scripts-index>
+    <header>KOCKA-Scripts</header>
+	<intro-text>
+	  Hello! Welcome to the KOCKA-Script index! Here, you can find all of the KOCKA scripts, read the terms, and give some feedback!
+	  KOCKA-Scripts are made by KockaAdmiralac
+	</intro-text>
+	<intro>Intro</intro>
+	<scripts>Scripts</scripts>
+	<terms>Terms</terms>
+	<feedback>Feedback</feedback>
+	<screenshot>Screenshot</screenshot>
+	<link>Link</link>
+	<about-text>
+	  
+	</about-text>
+	<scripts-text>
+	  
+	</scripts-text>
+	<support>Support</support>
+  </rpg-scripts-index>
+</vocab>

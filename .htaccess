@@ -1,0 +1,7 @@
+ErrorDocument 404 /errors/404.php
+
+RewriteEngine On
+RewriteRule ^primena/programiranje$ /primena/pages/programming.php [NC,L]
+RewriteRule ^primena/programski-jezici$ /primena/pages/languages.php [NC,L]
+RewriteRule ^primena/kutija-za-igru$ /primena/pages/sandbox.php [NC,L]
+RewriteRule ^primena/o-sajtu$ /primena/pages/about.php [NC,L]
